@@ -15,7 +15,7 @@
 <br/>
 
 - 🌱 I'm learning C#
-- 📫 Email: henrique.gusse@gmail.com
+- 📫 Email: henrique.gusse.pro@gmail.com
 
 <!---
 HenriqueGusse/HenriqueGusse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
