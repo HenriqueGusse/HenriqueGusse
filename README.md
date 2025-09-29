@@ -22,10 +22,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 <br/>
 
-- 🌱 I'm learning C#
-- 📫 Email: henrique.gusse.pro@gmail.com
-
-<!---
-HenriqueGusse/HenriqueGusse is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ❓ Check my LinkedIn for more information!
