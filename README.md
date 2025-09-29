@@ -4,7 +4,7 @@
 <br/>
 
 - 👀 FRONT END:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![JS](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angular&logoColor=white)
