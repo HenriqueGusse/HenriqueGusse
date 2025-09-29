@@ -7,7 +7,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![JS](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?logo=angular&logoColor=white)
 - ✨ BACK END:
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
